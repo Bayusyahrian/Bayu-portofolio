@@ -1,9 +1,11 @@
 body {
     margin-top: 50px;
+    font-family: arial;
 }
 
 .jumbotron img {
     width: 25%;
+
 }
 
 section {
@@ -12,5 +14,5 @@ section {
 
 footer {
     min-height: 50px;
-    padding-top:12px;
+    padding-top: 12px;
 }
